@@ -119,8 +119,8 @@ Secondary toolkit downloaded from: `https://sync.cloud-endpoint.net/update.msi`.
 <details>
 <summary>4.1 Initial Access – Execution of Malicious Payload</summary>
 
-![Screenshot 4.1-1](images/4.1-1.png)  
-![Screenshot 4.1-2](images/4.1-2.png)
+![Screenshot 4.1a](ctf/4.1-1.png)
+![Screenshot 4.1b](ctf/4.1-2.png)
 
 **Objective:** Identify the entry point and execution of the phishing attachment.  
 **Finding:** Contractor `j.wilson` executed `NHS_Spine_Certificate_Tool.exe`, then helpdesk executed it — lateral movement / privilege escalation confirmed.
