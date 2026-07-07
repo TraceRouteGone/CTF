@@ -33,7 +33,7 @@ Each writeup covers the full incident response process — from initial triage t
 | CTF | Platform | Topic | Score | Report |
 |---|---|---|---|---|
 | CTF3 — Warlock | MYDFIR | Warlock Ransomware IR | - | [View](./ctf/warlock.md) |
-| CTF6 — Akira | MYDFIR | Akira Ransomware IR · SPL + PCAP | **53/55 flags · 7th place** | [View](./ctf6-akira/CTF6_Writeup.md) |
+| CTF6 — Akira | MYDFIR | Akira Ransomware IR · SPL + PCAP | **55/55 flags · 7th place** | [View](./ctf6-akira/CTF6_Writeup.md) |
 
 ---
 
